@@ -1,0 +1,28 @@
+body{font-family:"Open Sans", sans-serif !important;color:#333;}
+table tr.alt, table tr.even, table tr:nth-of-type(even){background:#F9F9F9;}
+table tr td, table tr th{color:#222;font-size:1em;padding:.5625rem .625rem;text-align:left;}
+#tags{height:50px;}
+#social{padding:22px;}
+#facebook{background-image:url('../images/Share-Sprite.png');background-repeat:no-repeat;background-position:1px 4px;width:40px;height:40px;float:left;margin-right:11px;cursor:pointer;}
+#twitter{background-image:url('../images/Share-Sprite.png');background-repeat:no-repeat;background-position:0 -42px;width:40px;height:40px;float:left;margin-right:11px;cursor:pointer;}
+#email{background-image:url('../images/Share-Sprite.png');background-repeat:no-repeat;background-position:0 -88px;width:40px;height:40px;float:left;cursor:pointer;}
+#container{background-color:white;}
+thead{text-align:left;}
+#hed{font-size:2.2em;font-weight:400;font-family:Open Sans, sans-serif;font-weight:bold;}
+#dek{font-size:1.0em;}
+.main_content{padding:11px;}
+#top_ad{margin-bottom:22px;margin-top:75px}
+#map_canvas{width:100%;height:500px;margin-bottom:0px;padding-top:11px;border-bottom:11px solid #fff;border-top:11px solid white;}
+.stuck{position:fixed;top:0;width:100%}
+#nydn-header{position:fixed;top:0;width:100%;z-index:5000000}
+#searchBox, #tags{-webkit-appearance:textfield;box-sizing:content-box;height:30px;font-size:1.8em;width:86%;margin:20px;}
+#hoverBox{font-size:0.9em;color:#333;border:1px solid #999;z-index:500000000;position:absolute;background-color:white;padding:10px;display:none;line-height:1.2em;}
+.ui-menu-item{font-family:"Open Sans";font-size:11px;}
+#nydn_credit{padding-bottom:11px;font-size:11px;color:#999;font-family:Arial;font-weight:400}
+@media only screen and (max-width:40em){#map_canvas{width:100%;height:250px;margin-bottom:0px;border-bottom:1px solid #999;display:none;}
+}
+@media screen
+and (min-device-width:1200px)
+and (max-device-width:1600px)
+and (-webkit-min-device-pixel-ratio:1){#map_canvas{width:100%;height:300px;margin-bottom:0px;border-bottom:1px solid #999;}
+}
