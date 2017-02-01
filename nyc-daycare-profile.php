@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-  <head>
+<head>
   <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>New York City day care report: How safe is your child? -- NY Daily News</title>
@@ -36,26 +36,24 @@ window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.
     <meta name="staticContentPrefix" content="http://static.localedge.com/" />
     <meta name="searchBinding" content="/search" />
 
+	<meta name="localeCountry" content="US"/>
+	<meta name="localeLanguage" content="en" />
+	
+	<link rel="alternate" href="http://local.nydailynews.com/en-au/en-US" hreflang="en-au" />
+	<link href='http://fonts.googleapis.com/css?family=Open Sans:400,700' rel='stylesheet' type='text/css'>
 
-		<meta name="localeCountry" content="US"/>
-		<meta name="localeLanguage" content="en" />
-		
-		
-		<link rel="alternate" href="http://local.nydailynews.com/en-au/en-US" hreflang="en-au" />
-		<link href='http://fonts.googleapis.com/css?family=Open Sans:400,700' rel='stylesheet' type='text/css'>
-
-		<link rel="alternate" href="http://local.nydailynews.com/en-/en-US" hreflang="en-" />
-		<link rel="stylesheet" href="css/main.css" />
-		<link rel="stylesheet" href="css/sticky.css" />  		
+	<link rel="alternate" href="http://local.nydailynews.com/en-/en-US" hreflang="en-" />
+	<link rel="stylesheet" href="css/main.css" />
+	<link rel="stylesheet" href="css/sticky.css" />  		
     <link rel="stylesheet" href="css/foundation.css" />
     
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
 
      
     <script src="js/vendor/modernizr.js"></script>
-     <script src="js/vendor/jquery.js"></script>
-  </head>
-  <body>
+	<script src="js/vendor/jquery.js"></script>
+</head>
+<body>
      <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -71,9 +69,6 @@ window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.
 		  _gaq.push(['_setAccount', 'UA-20856122-5']);
 		  _gaq.push(['_trackPageview']);
 		  
-		  
-		  
-		  
 		  var _googleTrackerCount = 1;
 		
 		  (function() {
@@ -83,18 +78,6 @@ window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.
 		  })();
 		
 		</script>
-		
-		
-		
-			
-
-
-
-
-
-
-
-
 	
 	
 <!-- http://www.nydailynews.com/cmlink/content.localedge.header.html -->
@@ -201,17 +184,6 @@ endif;
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
   </div>
      <!-- end main content -->		
   <footer id="nydn-footer">
@@ -234,16 +206,9 @@ endif;
     </div>
     <div id="nydn-disclaimer">
       <p>Use of this website signifies your agreement to the <a href="http://www.nydailynews.com/services/terms-services">Terms of Service</a> and <a href="http://www.nydailynews.com/services/privacy-policy">Privacy Policy</a>.</p>
-      <p>© Copyright 2016 NYDailyNews.com. All rights reserved.</p>
+      <p>© Copyright 2016-2017 NYDailyNews.com. All rights reserved.</p>
     </div>
   </footer>
-
-   
-
-		
-		
-		
-			
 		
 
     <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
